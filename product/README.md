@@ -1,4 +1,4 @@
-# movie
+# product
 
 ## Project setup
 ```
